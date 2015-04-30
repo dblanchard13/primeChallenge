@@ -1,5 +1,7 @@
 # primeChallenge
 
+> The main application file is challenge.js
+
 ### Running the program
 
 From within the root directory:
